@@ -9,10 +9,8 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              Raghu Betina
-  url:               https://twitter.com/raghubetina
-  email:             raghu@firstdraft.com
-
+  name:              Chris Meggs
+  email:             meggsc91@gmail.com
 # Gems
 plugins:
   - jekyll-paginate
