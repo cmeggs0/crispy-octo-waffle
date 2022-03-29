@@ -3,7 +3,7 @@ title:               'Meggs' Musings'
 tagline:             'Notes to self about software development'
 description:         ''
 url:                 'https://cmeggs0.github.io/'
-baseurl:             'crispy-octo-waffle'
+baseurl:             'crispy-octo-waffle/'
 paginate:            5
 permalink:           pretty
 
